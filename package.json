@@ -1,0 +1,23 @@
+{
+  "name": "rest_tut",
+  "version": "1.0.0",
+  "description": "tutorial for rest api",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "respository": {
+    "type": "git",
+    "url": "https://github.com/willybeans/rest_tut.git"
+  },
+  "author": "Will Wedmedyk",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongodb": "^3.1.1",
+    "mongoose": "^5.2.7",
+    "nodemon": "^1.18.3"
+  }
+}
