@@ -4,8 +4,9 @@ A few things worth noting:
 
 
 **server.js**:
-
-
+	
+	* uses app.use('/course'), CourseRoute); to intercept all requests
+	
 	* this file contains a require for mongoose
 	
 	
