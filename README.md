@@ -9,7 +9,6 @@ A few things worth noting:
 	
 	* this file contains a require for mongoose
 	
-	
 	* "" also contains an import from BOTH modules course and courseRoute
 
 
